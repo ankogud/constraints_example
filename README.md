@@ -19,7 +19,7 @@ This is a simple Flutter project demonstrating responsive design and state manag
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/constraints_example.git
+    git clone https://github.com/ankogud/constraints_example.git
     ```
 2. Navigate to the project directory:
     ```sh
